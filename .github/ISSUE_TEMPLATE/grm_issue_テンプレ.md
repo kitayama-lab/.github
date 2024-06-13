@@ -1,7 +1,7 @@
 ---
 name: GRM_issue_テンプレ
 about: GRM時用に書くissueのテンプレです
-title: ''
+title: '{{.CurrentTime.Format "2006/01/02"}}_GRM：'
 labels: ''
 assignees: ''
 
