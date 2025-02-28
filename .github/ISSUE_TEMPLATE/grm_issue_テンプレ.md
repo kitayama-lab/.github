@@ -1,6 +1,6 @@
 ---
-name: GRM_issue_テンプレ
-about: GRM時用に書くissueのテンプレです
+name: RM_issue_テンプレ
+about: RM時用に書くissueのテンプレです
 title: ''
 labels: ''
 assignees: ''
