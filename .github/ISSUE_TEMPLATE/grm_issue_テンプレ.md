@@ -1,6 +1,6 @@
 ---
-name: RM_issue_テンプレ
-about: RM時用に書くissueのテンプレです
+name: 研究会_issue_テンプレ
+about: 研究会時用に書くissueのテンプレです
 title: ''
 labels: ''
 assignees: ''
@@ -14,5 +14,3 @@ assignees: ''
 ## 今週までにやったことの概要（今日議論したいこと）
 
 ## 今週の資料
-
-## 次の論文提出までの計画
